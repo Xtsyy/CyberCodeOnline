@@ -375,7 +375,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey bimbo, mi chiamo Lee.Non devi per forza tenere tutto nelle tue tasche.",
+ 	 	 	 	 	"Hey bimbo, mi chiamo Lee. Non devi per forza tenere tutto nelle tue tasche.",
  	 	 	 	 	"Posso procurarti qualsiasi cosa tu possa pensare",
  	 	 	 	 	"Facciamo uno scambio",
  	 	 	 	 	"Tu lo vuoi, io ce l'ho",
@@ -2056,11 +2056,11 @@
  	 	 	 	"eng": "Custom profile image is a donator exclusive feature"
  	 	 	},
  	 	 	"changePictureDescription": {
- 	 	 	 	"trans": "Per fornire il meglio nessuna esperienza Pay-to-Win a te, è necessario che tutte le funzionalità a pagamento siano cosmetici come immagini profilo e telai di chat, \n                                                 o buff globali che beneficiano di tutti in gioco :) \n                                                 Spero che ti piaccia l'esperienza Pay-to-Win!",
+ 	 	 	 	"trans": "Per fornirti al meglio una esperienza Non Pay-To-Win, è necessario che tutte le funzionalità a pagamento siano cosmetici come immagini profilo e telai di chat, \n                                                 o buff globali che beneficiano di tutti in gioco :) \n                                                 Spero che ti piaccia l'esperienza Pay-to-Win!",
  	 	 	 	"eng": "To provide the best No Pay-to-Win experience to you, it is necessary that all paid features are cosmetic like profile images & chat frames, \n                                                or global buffs that benefits everyone in game :)\n                                                Hope you enjoy the No Pay-to-Win experience!"
  	 	 	},
  	 	 	"confirm": {
- 	 	 	 	"trans": "Donate adesso",
+ 	 	 	 	"trans": "Dona adesso",
  	 	 	 	"eng": "Donate now"
  	 	 	}
  	 	},
@@ -2104,7 +2104,7 @@
  	 	},
  	 	"chat": {
  	 	 	"chat": {
- 	 	 	 	"trans": "Chiacchierare",
+ 	 	 	 	"trans": "Chat",
  	 	 	 	"eng": "chat"
  	 	 	},
  	 	 	"gang": {
@@ -2224,11 +2224,11 @@
  	 	 	 	"eng": "Help with translating the game"
  	 	 	},
  	 	 	"receiveClanNotification": {
- 	 	 	 	"trans": "Ricevere una notifica della banda",
+ 	 	 	 	"trans": "Ricevi notifiche dalla gang",
  	 	 	 	"eng": "Receive Gang Notification"
  	 	 	},
  	 	 	"receiveGlobalNotification": {
- 	 	 	 	"trans": "Ricevi la notifica Global Buff",
+ 	 	 	 	"trans": "Ricevi notifiche di Global Buff",
  	 	 	 	"eng": "Receive Global Buff Notification"
  	 	 	},
  	 	 	"disableAttackBar": {
@@ -2237,7 +2237,7 @@
  	 	 	 	 	"eng": "Disable Attack Timing Bar"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "La disattivazione della barra di temporizzazione dell'attacco non concederà un danno extra",
+ 	 	 	 	 	"trans": "La disattivazione della barra di timing dell'attacco non concederà un danno extra",
  	 	 	 	 	"eng": "Disabling attack timing bar will not grant extra damage"
  	 	 	 	}
  	 	 	},
@@ -2259,13 +2259,13 @@
  	 	 	},
  	 	 	"blockGifts": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Disabilitare il ricevimento dei regali",
+ 	 	 	 	 	"trans": "Disabilita il ricevimento dei regali",
  	 	 	 	 	"eng": "Disable receiving gifts"
  	 	 	 	}
  	 	 	},
  	 	 	"disableVictoryScreen": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Disabilitare la schermata della vittoria",
+ 	 	 	 	 	"trans": "Disabilita la schermata della vittoria",
  	 	 	 	 	"eng": "Disable Victory Screen"
  	 	 	 	}
  	 	 	},
@@ -2310,13 +2310,13 @@
  	 	 	 	"eng": "Critical Error: Neural Link Disconnected"
  	 	 	},
  	 	 	"progressBarTitle": {
- 	 	 	 	"trans": "Ristabilire la connessione",
+ 	 	 	 	"trans": "Ristabilendo la connessione",
  	 	 	 	"eng": "Re-establishing connection"
  	 	 	}
  	 	},
  	 	"setBio": {
  	 	 	"title": {
- 	 	 	 	"trans": "Inserisci il tuo BIO",
+ 	 	 	 	"trans": "Inserisci la tua bio(grafia)",
  	 	 	 	"eng": "Enter your bio"
  	 	 	}
  	 	},
@@ -2358,7 +2358,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "DATA SUCCESSIVA DATA: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "Prossima manutenzione: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
@@ -2366,7 +2366,7 @@
  	 	 	 	"eng": "resource critical"
  	 	 	},
  	 	 	"insufficientFound": {
- 	 	 	 	"trans": "Trovato insufficiente",
+ 	 	 	 	"trans": "Soldi insufficienti",
  	 	 	 	"eng": "Insufficient Funds"
  	 	 	},
  	 	 	"insufficientResource": {
@@ -2385,7 +2385,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Modifica Motto Gang",
+ 	 	 	 	 	"trans": "Modifica il motto della Gang",
  	 	 	 	 	"eng": "Edit Gang Motto"
  	 	 	 	}
  	 	 	},
@@ -2422,7 +2422,7 @@
  	 	 	 	"eng": "links"
  	 	 	},
  	 	 	"premiumShop": {
- 	 	 	 	"trans": "Negozio di premium",
+ 	 	 	 	"trans": "Negozio Premium",
  	 	 	 	"eng": "Premium Shop"
  	 	 	},
  	 	 	"friendList": {
@@ -2453,7 +2453,7 @@
  	 	"machineCrafting": {
  	 	 	"titleBox": {
  	 	 	 	"tile": {
- 	 	 	 	 	"trans": "Italiano del sistema",
+ 	 	 	 	 	"trans": "Sistema inattivo",
  	 	 	 	 	"eng": "system idle"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -2474,7 +2474,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"timeStr"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Questo prenderà ${timeStr}",
+ 	 	 	 	 	"trans": "Ci vorrà ${timeStr}",
  	 	 	 	 	"eng": "This will take ${timeStr}"
  	 	 	 	}
  	 	 	}
@@ -2486,7 +2486,7 @@
  	 	 	 	 	"eng": "Error"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Fallimento distruttivo maturato",
+ 	 	 	 	 	"trans": "Guasto distruttivo maturato",
  	 	 	 	 	"eng": "Destructive failure accrued"
  	 	 	 	}
  	 	 	},
@@ -2658,12 +2658,12 @@
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
- 	 	 	 	 	"trans": "Quanti ti piacerebbe ritirarsi dalla banca?",
+ 	 	 	 	 	"trans": "Quanti ti piacerebbe ritirare dalla banca?",
  	 	 	 	 	"eng": "How many would you like to withdraw from the bank?"
  	 	 	 	}
  	 	 	},
  	 	 	"noBalance": {
- 	 	 	 	"trans": "Non puoi ritirarsi quando non hai equilibrio.",
+ 	 	 	 	"trans": "Non puoi ritirare quando non hai niente.",
  	 	 	 	"eng": "You can't withdraw when you have no balance."
  	 	 	},
  	 	 	"depositDesc": {
@@ -2757,12 +2757,12 @@
  	 	 	 	 	"eng": "Extensive repair required"
  	 	 	 	},
  	 	 	 	"instruction": {
- 	 	 	 	 	"trans": "Questo oggetto è rotto, portalo all'arma Smith per la riparazione",
+ 	 	 	 	 	"trans": "Questo oggetto è rotto, portalo al fabbro per la riparazione",
  	 	 	 	 	"eng": "This item is broken, bring it to Weapon Smith for repair"
  	 	 	 	}
  	 	 	},
  	 	 	"areaEffect": {
- 	 	 	 	"trans": "[AoE] Area di effetto, l'effetto di questo articolo applicherà alleati in combattimento con te.",
+ 	 	 	 	"trans": "[AoE] Area di effetto, l'effetto di questo articolo verrà applicato anche agli alleati in combattimento con te.",
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
@@ -2778,11 +2778,11 @@
  	 	 	 	"eng": "Use"
  	 	 	},
  	 	 	"unlock": {
- 	 	 	 	"trans": "Sbloccare",
+ 	 	 	 	"trans": "Sblocca",
  	 	 	 	"eng": "Unlock"
  	 	 	},
  	 	 	"lock": {
- 	 	 	 	"trans": "Serratura",
+ 	 	 	 	"trans": "Blocca",
  	 	 	 	"eng": "Lock"
  	 	 	},
  	 	 	"upgradeModuleTitle": {
@@ -2819,20 +2819,20 @@
  	 	 	 	"eng": "You don't have any secret keys"
  	 	 	},
  	 	 	"noKeysSubtitle": {
- 	 	 	 	"trans": "Puoi ottenere la chiave segreta dai dungeon",
+ 	 	 	 	"trans": "Puoi ottenere le chiavi segrete dai dungeon",
  	 	 	 	"eng": "You can obtain secret keys from Dungeons"
  	 	 	}
  	 	},
  	 	"npc": {
  	 	 	"notUnlocked": {
- 	 	 	 	"trans": "Questo non è ancora sbloccato, prova a livello il tuo personaggio",
+ 	 	 	 	"trans": "Questo non è ancora sbloccato, prova ad aumentare il livello del tuo personaggio",
  	 	 	 	"eng": "This is not unlocked yet, try leveling up your character"
  	 	 	},
  	 	 	"repairItems": {
  	 	 	 	"vars": [
  	 	 	 	 	"repairFee"
  	 	 	 	],
- 	 	 	 	"trans": "Riparare tutti gli articoli (${repairFee} Bitcoin)",
+ 	 	 	 	"trans": "Vuoi riparare tutti gli articoli (${repairFee} Bitcoin)",
  	 	 	 	"eng": " Repair all items for (${repairFee} Bitcoin)"
  	 	 	},
  	 	 	"buyUnit": {
@@ -2851,7 +2851,7 @@
  	 	"itemDetails": {
  	 	 	"factoryReset": {
  	 	 	 	"confirmation": {
- 	 	 	 	 	"trans": "Fare questo ripristinerà tutta la calibrazione sul tuo oggetto, renderlo anche di nuovo commerciabile. \n       Sei sicuro di voler procedere?",
+ 	 	 	 	 	"trans": "Fare questo ripristinerà tutta la calibrazione sul tuo oggetto. In più lo renderà di nuovo scambiabile. \n       Sei sicuro di voler procedere?",
  	 	 	 	 	"eng": "Doing this will reset all calibration on your item. It will also make it tradable again. \n      Are you sure you want to proceed?"
  	 	 	 	},
  	 	 	 	"trans": "Reset di fabbrica",
@@ -2882,7 +2882,7 @@
  	 	},
  	 	"gang": {
  	 	 	"confirmKickMember": {
- 	 	 	 	"trans": "Sei sicuro di volerci un calcio di questo giocatore dalla tua banda?",
+ 	 	 	 	"trans": "Sei sicuro di voler cacciare questo giocatore dalla tua banda?",
  	 	 	 	"eng": "are you sure you want to kick this player from your gang?"
  	 	 	},
  	 	 	"memberContribution": {
@@ -2940,11 +2940,11 @@
  	 	 	 	"eng": "Day"
  	 	 	},
  	 	 	"canClaim": {
- 	 	 	 	"trans": "A disposizione",
+ 	 	 	 	"trans": "Disponibile",
  	 	 	 	"eng": "Available"
  	 	 	},
  	 	 	"claimed": {
- 	 	 	 	"trans": "Ha sostenuto",
+ 	 	 	 	"trans": "reclamato",
  	 	 	 	"eng": "Claimed"
  	 	 	},
  	 	 	"cantClaimYet": {
@@ -2962,7 +2962,7 @@
  	 	 	 	"eng": "purchase"
  	 	 	},
  	 	 	"sell": {
- 	 	 	 	"trans": "vendere",
+ 	 	 	 	"trans": "vendi",
  	 	 	 	"eng": "sell"
  	 	 	}
  	 	},
@@ -2978,7 +2978,7 @@
  	 	},
  	 	"job": {
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "È necessario almeno il livello 2 per accedere al hub di lavoro",
+ 	 	 	 	"trans": "È necessario almeno il livello 2 per accedere al centro di lavoro",
  	 	 	 	"eng": "You need to be at least level 2 to access the job hub"
  	 	 	}
  	 	},
@@ -2996,7 +2996,7 @@
  	 	 	 	"eng": "please register or login with existing account"
  	 	 	},
  	 	 	"asusDescription": {
- 	 	 	 	"trans": "Asus Phone (Zenfone, Rog) ha bug con schermata non è cliccabile, nel caso, prova a disattivare lo schermo spento e riaccenderlo, o inserire questa app per lo sfondo e riprenderlo nuovamente. Questo dovrebbe risolvere il problema :)",
+ 	 	 	 	"trans": "Asus Phone (Zenfone, Rog) ha un bug che rende lo schermo non cliccabile, nel caso, prova a disattivare lo schermo spento e riaccenderlo, o inserire questa app per lo sfondo e riprenderlo nuovamente. Questo dovrebbe risolvere il problema :)",
  	 	 	 	"eng": "ASUS phone (Zenfone, ROG) has bug with screen being not clickable, in the case, please try turning your screen off and on again, or put this app to background and resume it again. this should fix the issue :)"
  	 	 	}
  	 	},
@@ -3006,11 +3006,11 @@
  	 	 	 	"eng": "Login"
  	 	 	},
  	 	 	"forgotPassword": {
- 	 	 	 	"trans": "Ha dimenticato la password?",
+ 	 	 	 	"trans": "Hai dimenticato la password?",
  	 	 	 	"eng": "Forgot Password?"
  	 	 	},
  	 	 	"registerPageButton": {
- 	 	 	 	"trans": "Registrati?",
+ 	 	 	 	"trans": "Vuoi creare un account?",
  	 	 	 	"eng": "Create Account?"
  	 	 	}
  	 	},
@@ -3020,7 +3020,7 @@
  	 	 	 	"eng": "Create Account"
  	 	 	},
  	 	 	"loginPageButton": {
- 	 	 	 	"trans": "Avere un account?",
+ 	 	 	 	"trans": "Hai un account?",
  	 	 	 	"eng": "Have account?"
  	 	 	}
  	 	},
@@ -3035,7 +3035,7 @@
  	 	 	 	 	"eng": "Character Name"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Sarai disattivato se usi nomi offensivi o inappropriati.",
+ 	 	 	 	 	"trans": "Sarai silenziato se usi nomi offensivi o inappropriati.",
  	 	 	 	 	"eng": "you will be muted if you use an offensive or inappropriate name."
  	 	 	 	}
  	 	 	},
@@ -3072,7 +3072,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"name"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Hai impostato ${name} come tuo referen",
+ 	 	 	 	 	"trans": "Hai impostato ${name} come tuo referer",
  	 	 	 	 	"eng": "You have set ${name} as your referer"
  	 	 	 	}
  	 	 	},
@@ -3097,7 +3097,7 @@
  	 	 	 	 	"eng": "You cannot change this in the future"
  	 	 	 	},
  	 	 	 	"confirmButton": {
- 	 	 	 	 	"trans": "sono sicuro",
+ 	 	 	 	 	"trans": "Sono sicuro",
  	 	 	 	 	"eng": "I am sure"
  	 	 	 	}
  	 	 	}
@@ -3122,7 +3122,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Tempo libero Skip (${itemSkipMinutes} min)",
+ 	 	 	 	 	"trans": "Time skip gratuito (${itemSkipMinutes} min)",
  	 	 	 	 	"eng": "Free time skip (${itemSkipMinutes} Min)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -3130,7 +3130,7 @@
  	 	 	 	 	 	"timeSkipItemName",
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Utilizzare uno dei tuoi ${timeSkipItemName} per saltare ${itemSkipMinutes} minuti",
+ 	 	 	 	 	"trans": "Utilizza uno dei tuoi ${timeSkipItemName} per saltare ${itemSkipMinutes} minuti",
  	 	 	 	 	"eng": "Use one of your ${timeSkipItemName} to skip ${itemSkipMinutes} minutes"
  	 	 	 	}
  	 	 	},
@@ -3172,7 +3172,7 @@
  	 	 	 	"eng": "The task will continue even if you close the game"
  	 	 	},
  	 	 	"abortWarning": {
- 	 	 	 	"trans": "Aborting questo hai vinto \\ 't Ricevi qualsiasi ricompensa e il materiale usato non è restituito",
+ 	 	 	 	"trans": "Abortendo non riceverai nessuna ricompensa e il materiale usato non verrà restituito",
  	 	 	 	"eng": "By aborting this you won\\'t receive any reward and the material used won\\'t be returned"
  	 	 	},
  	 	 	"marketShortcut": {
@@ -3182,7 +3182,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"abortWarningTitle": {
- 	 	 	 	"trans": "Sei sicuro di volerbortire?",
+ 	 	 	 	"trans": "Sei sicuro di voler abortire?",
  	 	 	 	"eng": "Are you sure you want to abort?"
  	 	 	}
  	 	},
@@ -3198,7 +3198,7 @@
  	 	 	 	 	 	"eng": "Cyberspace hacking in progress"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Iscriviti alla forza con altri netrunner per violare la fortezza di dati SL per garantire a tutti i giocatori con buff",
+ 	 	 	 	 	 	"trans": "Iscriviti alla forza con altri netrunner per violare la fortezza di dati SL per garantire a tutti i giocatori dei buff",
  	 	 	 	 	 	"eng": "Join forces with other Netrunners to breach the SL-Data Fortress to grant all players with buff"
  	 	 	 	 	}
  	 	 	 	},
@@ -3238,7 +3238,7 @@
  	 	},
  	 	"backToPreviusLoc": {
  	 	 	"longPressBackToCity": {
- 	 	 	 	"trans": "Premere a lungo per tornare in città",
+ 	 	 	 	"trans": "Premi a lungo per tornare in città",
  	 	 	 	"eng": "Long press to go back to city"
  	 	 	}
  	 	},
@@ -3301,17 +3301,17 @@
  	 	 	 	"vars": [
  	 	 	 	 	"equipmentName"
  	 	 	 	],
- 	 	 	 	"trans": "${equipmentName} è rotto, riparalo all'arma Smith in città",
+ 	 	 	 	"trans": "${equipmentName} è rotto, riparalo al fabbro in città",
  	 	 	 	"eng": "${equipmentName} is broken, repair it at the Weapon Smith in the City"
  	 	 	}
  	 	},
  	 	"dungeonLobby": {
  	 	 	"noDungeon": {
- 	 	 	 	"trans": "Attualmente non esiste un dungeon pubblico",
+ 	 	 	 	"trans": "Attualmente non c'è alcun dungeon pubblico",
  	 	 	 	"eng": "There is currently no public dungeon"
  	 	 	},
  	 	 	"showCanJoinOnly": {
- 	 	 	 	"trans": "Mostra solo i dungeon che posso unirsi",
+ 	 	 	 	"trans": "Mostra solo i dungeon a cui posso unirmi",
  	 	 	 	"eng": "Only show dungeons I can join"
  	 	 	}
  	 	},
@@ -3322,7 +3322,7 @@
  	 	 	 	 	"eng": "Nearby Enemies"
  	 	 	 	},
  	 	 	 	"desc": {
- 	 	 	 	 	"trans": "Scansioni per i nemici vicini per la strada, i nemici al di fuori dei dungeon sono più deboli e più facili da sconfiggere. Comunque diminuiscono anche meno exp",
+ 	 	 	 	 	"trans": "Scansiona i nemici vicini per strada, i nemici al di fuori dei dungeon sono più deboli e più facili da sconfiggere. Comunque distribuiscono meno exp",
  	 	 	 	 	"eng": "Scans for nearby enemies on the street, enemies outside dungeons are weaker and easier to defeat. However they also drop less exp"
  	 	 	 	}
  	 	 	}
@@ -3339,24 +3339,24 @@
  	 	 	 	"eng": "Crafting"
  	 	 	},
  	 	 	"onlyShowCraftable": {
- 	 	 	 	"trans": "Nascondi ricette che puoi artigianale",
+ 	 	 	 	"trans": "Nascondi ricette che puoi craftare",
  	 	 	 	"eng": "Hide recipes that you can\\'t craft"
  	 	 	}
  	 	},
  	 	"communityItemLore": {
  	 	 	"noLoreButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Creare un sacco",
+ 	 	 	 	 	"trans": "Crea una storia",
  	 	 	 	 	"eng": "Create Lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Non c'è ancora un sacco di comunità per questo articolo, sii ancora il primo a crearne uno per questo.",
+ 	 	 	 	 	"trans": "Non c'è ancora una storia della community per questo oggetto, sii il primo a crearla.",
  	 	 	 	 	"eng": "There is no community lore for this item yet, be the first to create one for it."
  	 	 	 	}
  	 	 	},
  	 	 	"openButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "LORE DELLA COMUNITÀ",
+ 	 	 	 	 	"trans": "LORE DELLA COMMUNITY",
  	 	 	 	 	"eng": "Community Lore"
  	 	 	 	},
  	 	 	 	"description": {
@@ -3378,12 +3378,12 @@
  	 	"equipment": {
  	 	 	"lowPrintLevelTip": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "BASSA RANK",
+ 	 	 	 	 	"trans": "Printing Rank basso",
  	 	 	 	 	"eng": "Low Printing Rank"
  	 	 	 	}
  	 	 	},
  	 	 	"lowPrintLevelTip2": {
- 	 	 	 	"trans": "Aumenta il tuo rango di stampa per creare armi più potenti stampando più cache",
+ 	 	 	 	"trans": "Aumenta il tuo Printing Rank per creare armi più potenti stampando più cache",
  	 	 	 	"eng": "Increase your Printing Rank to create more powerful weapons by printing more caches"
  	 	 	},
  	 	 	"quickSlots": {
@@ -3391,14 +3391,14 @@
  	 	 	 	"eng": "Quick Slots"
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Attrezzata",
+ 	 	 	 	"trans": "Equipaggiato",
  	 	 	 	"eng": "Equipped"
  	 	 	}
  	 	},
  	 	"quickSlot": {
  	 	 	"unbindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Slot rapido non smard?",
+ 	 	 	 	 	"trans": "Togliere slot rapido?",
  	 	 	 	 	"eng": "Unbind quick slot?"
  	 	 	 	}
  	 	 	},
@@ -3439,7 +3439,7 @@
  	 	 	 	"eng": "dungeon"
  	 	 	},
  	 	 	"social": {
- 	 	 	 	"trans": "sociale",
+ 	 	 	 	"trans": "social",
  	 	 	 	"eng": "social"
  	 	 	},
  	 	 	"keys": {
@@ -3451,7 +3451,7 @@
  	 	 	 	"eng": "profile"
  	 	 	},
  	 	 	"locations": {
- 	 	 	 	"trans": "Posizioni",
+ 	 	 	 	"trans": "Luoghi",
  	 	 	 	"eng": "locations"
  	 	 	},
  	 	 	"quests": {
@@ -3475,13 +3475,13 @@
  	 	 	 	"eng": "calibration"
  	 	 	},
  	 	 	"enemyGangsAndMark": {
- 	 	 	 	"trans": "Gang nemici e marchi delle attrezzature",
+ 	 	 	 	"trans": "Gang nemiche e marchi delle attrezzature",
  	 	 	 	"eng": "Enemy Gangs and Equipment Marks"
  	 	 	}
  	 	},
  	 	"tipsBox": {
  	 	 	"title": {
- 	 	 	 	"trans": "Consiglio professionale",
+ 	 	 	 	"trans": "Consigli professionali",
  	 	 	 	"eng": "Pro Tips"
  	 	 	},
  	 	 	"description": {
@@ -3527,7 +3527,7 @@
  	 	 	 	"eng": "Your account has been suspended automatically by the system due to Suspicious Activity"
  	 	 	},
  	 	 	"content": {
- 	 	 	 	"trans": "Se avete domande, non esitate a contattare Dexter direttamente tramite la discordia ufficiale (il collegamento può essere trovato nel menu flottante -> collegamenti) o e-mail a ching.huang.dexter@gmail.com",
+ 	 	 	 	"trans": "Se avete domande, non esitate a contattare Dexter direttamente tramite il discord ufficiale (il link può essere trovato nel Floating Menu -> link) o scrivi a ching.huang.dexter@gmail.com",
  	 	 	 	"eng": "If you have any questions please feel free to contact Dexter directly via official Discord (Link can be found in Floating Menu -> Links) or email to ching.huang.dexter@gmail.com"
  	 	 	}
  	 	},
@@ -3594,11 +3594,11 @@
  	 	 	"eng": "Status Effects"
  	 	},
  	 	"notTradable": {
- 	 	 	"trans": "non negoziabile",
+ 	 	 	"trans": "non scambiabile",
  	 	 	"eng": "not tradable"
  	 	},
  	 	"itemUpgradeCapacity": {
- 	 	 	"trans": "Capacità di calibrazione",
+ 	 	 	"trans": "Capacità di collaborazione",
  	 	 	"eng": "Collaboration Capacity"
  	 	},
  	 	"systemStandby": {
@@ -3626,11 +3626,11 @@
  	 	 	"eng": "dungeons"
  	 	},
  	 	"enemies": {
- 	 	 	"trans": "Nemiche",
+ 	 	 	"trans": "Nemici",
  	 	 	"eng": "Enemies"
  	 	},
  	 	"moderators": {
- 	 	 	"trans": "moderatrici",
+ 	 	 	"trans": "moderatori",
  	 	 	"eng": "moderators"
  	 	},
  	 	"level": {
@@ -3660,11 +3660,11 @@
  	 	 	}
  	 	},
  	 	"escape": {
- 	 	 	"trans": "fuga",
+ 	 	 	"trans": "scappa",
  	 	 	"eng": "escape"
  	 	},
  	 	"equipped": {
- 	 	 	"trans": "Attrezzata",
+ 	 	 	"trans": "Equipaggiato",
  	 	 	"eng": "Equipped"
  	 	},
  	 	"purchase": {
@@ -3672,7 +3672,7 @@
  	 	 	"eng": "Purchase"
  	 	},
  	 	"inputPlaceholder": {
- 	 	 	"trans": "Inserisci il messaggio per iniziare a chattare",
+ 	 	 	"trans": "Invia il messaggio per iniziare a chattare",
  	 	 	"eng": "Enter message to start chatting"
  	 	},
  	 	"okay": {
@@ -3688,7 +3688,7 @@
  	 	 	"eng": "Quick Slot"
  	 	},
  	 	"craft": {
- 	 	 	"trans": "mestiere",
+ 	 	 	"trans": "crea",
  	 	 	"eng": "craft"
  	 	},
  	 	"ok": {
